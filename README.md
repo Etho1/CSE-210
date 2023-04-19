@@ -1,2 +1,1 @@
-# CSE-210
-BYUI CSE210
+#CSE210 Ethan Spencer
