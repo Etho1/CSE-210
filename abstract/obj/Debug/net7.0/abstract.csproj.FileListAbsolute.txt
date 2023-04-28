@@ -1,0 +1,15 @@
+C:\Users\home4\Documents\code\cse210\abstract\bin\Debug\net7.0\abstract.exe
+C:\Users\home4\Documents\code\cse210\abstract\bin\Debug\net7.0\abstract.deps.json
+C:\Users\home4\Documents\code\cse210\abstract\bin\Debug\net7.0\abstract.runtimeconfig.json
+C:\Users\home4\Documents\code\cse210\abstract\bin\Debug\net7.0\abstract.dll
+C:\Users\home4\Documents\code\cse210\abstract\bin\Debug\net7.0\abstract.pdb
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.csproj.AssemblyReference.cache
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.AssemblyInfoInputs.cache
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.AssemblyInfo.cs
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.csproj.CoreCompileInputs.cache
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.dll
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\refint\abstract.dll
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.pdb
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\abstract.genruntimeconfig.cache
+C:\Users\home4\Documents\code\cse210\abstract\obj\Debug\net7.0\ref\abstract.dll
